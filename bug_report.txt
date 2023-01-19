@@ -1,1 +1,11 @@
-
+1)ID: 1
+2)Title: Добавление товара в корзину
+3)Priority: high
+4)Severity: Major
+5)Environment: Iphone 12
+6)Steps: 
+1: Зайти на сайт
+2: Найти товар
+3: Добавить в корзину
+7)Expected Result: товар добавлен
+8)Actual Result: товар не добавлен
